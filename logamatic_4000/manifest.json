@@ -2,7 +2,7 @@
   "domain": "logamatic4000",
   "name": "Logamatic 4000",
   "version": "0.1",
-  "documentation": "https://github.com/yourusername/logamatic4000_sensor",
-  "codeowners": [],
+  "documentation": "https://github.com/lmaertin/ha-logamatic4000-rs232",
+  "codeowners": ["@lmaertin"],
   "iot_class": "local_polling"
 }
