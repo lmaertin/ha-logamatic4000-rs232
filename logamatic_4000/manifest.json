@@ -1,0 +1,8 @@
+{
+  "domain": "logamatic4000",
+  "name": "Logamatic 4000",
+  "version": "0.1",
+  "documentation": "https://github.com/yourusername/logamatic4000_sensor",
+  "codeowners": [],
+  "iot_class": "local_polling"
+}
